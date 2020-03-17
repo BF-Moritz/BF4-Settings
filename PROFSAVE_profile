@@ -24,7 +24,7 @@ GstRender.EffectsQuality 1
 GstRender.Enlighten 1
 GstRender.FieldOfViewScaleADS 1
 GstRender.FieldOfViewVehicle 95.000000
-GstRender.FieldOfViewVertical 105.000000
+GstRender.FieldOfViewVertical 95.000000
 GstRender.FullscreenEnabled 0
 GstRender.FullscreenMode 2
 GstRender.FullscreenRefreshRate 144.001007
@@ -39,7 +39,7 @@ GstRender.OverallGraphicsQuality 5
 GstRender.PostProcessQuality 0
 GstRender.ResolutionHeight 1080
 GstRender.ResolutionHertz 0
-GstRender.ResolutionScale 1.000000
+GstRender.ResolutionScale 1.500000
 GstRender.ResolutionWidth 1920
 GstRender.ScreenSafeAreaHeight 1.000000
 GstRender.ScreenSafeAreaWidth 1.000000
